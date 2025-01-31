@@ -1,5 +1,5 @@
 ---
-title: 퍼핀 : 용돈카드, 주식&코인 가상투자, 경제관념 잡기 다운로드 바로가기
+title: 퍼핀 용돈카드, 주식&코인 가상투자, 경제관념 잡기 다운로드 바로가기
 author: Download
 date: 2025-01-31
 categories: [Download]
