@@ -1,5 +1,5 @@
 ---
-title: 스푼라디오: 오디오 라이브 방송 다운로드 바로가기
+title: 스푼라디오 오디오 라이브 방송 다운로드 바로가기
 author: Download
 date: 2025-01-31
 categories: [Download]
