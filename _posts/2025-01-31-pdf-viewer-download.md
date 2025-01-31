@@ -1,5 +1,5 @@
 ---
-title: PDF 뷰어 다운로드 바로가기
+title: PDF 뷰어 무료 다운로드 바로가기
 author: Download
 date: 2025-01-31
 categories: [Download]

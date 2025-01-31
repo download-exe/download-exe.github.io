@@ -1,5 +1,5 @@
 ---
-title: VPN 다운로드 바로가기
+title: VPN 무료 다운로드 바로가기
 author: Download
 date: 2025-01-31
 categories: [Download]
@@ -56,7 +56,7 @@ image: 'https://play-lh.googleusercontent.com/G166NGtIsLp_UdpDjC1FF6dooIgd83fs2l
     </tr>
     <tr>
         <td>NordVPN</td>
-        <td><a href="https://nordvpn.com/download/">다운로드</a></td>
+        <td><a href="https://go.nordvpn.net/aff_c?offer_id=15&aff_id=116161&url_id=23180">다운로드</a></td>
         <td>설치 파일을 실행하고 계정 정보를 입력하여 설치합니다.</td>
     </tr>
     <tr>
