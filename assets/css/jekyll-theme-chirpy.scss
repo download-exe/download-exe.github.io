@@ -8,3 +8,130 @@
 ';
 
 /* append your custom style below */
+
+/* Windows 스타일 */
+.click-button.windows {
+    display: inline-block;
+    width: 100%;
+    padding: 12px 20px;
+    background-color: #1E90FF; /* Windows Blue */
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 4px; /* 기본 직선 모서리 */
+    border: 2px solid #1C86EE;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.click-button.windows:hover {
+    background-color: #4682B4;
+    color: #FFF;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.4);
+    transform: translateY(-2px);
+    cursor: pointer;
+}
+
+.click-button.windows:active {
+    background-color: #4169E1;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transform: translateY(0);
+}
+
+
+/* Mac 스타일 */
+.click-button.mac {
+    display: inline-block;
+    width: 100%;
+    padding: 12px 20px;
+    background-color: #007AFF; /* Mac 기본 블루 */
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 20px; /* 둥근 모서리 */
+    border: 2px solid #0061D5;
+    transition: all 0.3s ease;
+    box-shadow: 0 6px 12px rgba(0, 0, 0, 0.3);
+}
+
+.click-button.mac:hover {
+    background-color: #0061D5;
+    color: #FFF;
+    box-shadow: 0 8px 14px rgba(0, 0, 0, 0.4);
+    transform: translateY(-2px);
+    cursor: pointer;
+}
+
+.click-button.mac:active {
+    background-color: #0051A2;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+    transform: translateY(0);
+}
+
+
+/* iOS 스타일 */
+.click-button.ios {
+    display: inline-block;
+    width: 100%;
+    padding: 12px 20px;
+    background-color: #34C759; /* iOS Green */
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 30px; /* 더 둥근 모서리 */
+    border: none;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+}
+
+.click-button.ios:hover {
+    background-color: #28A745;
+    color: #FFF;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.2);
+    transform: translateY(-2px);
+    cursor: pointer;
+}
+
+.click-button.ios:active {
+    background-color: #2C9E44;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transform: translateY(0);
+}
+
+
+/* Android 스타일 */
+.click-button.android {
+    display: inline-block;
+    width: 100%;
+    padding: 12px 20px;
+    background-color: #3DDC84; /* Android Green */
+    color: #fff;
+    font-size: 16px;
+    font-weight: bold;
+    text-align: center;
+    text-decoration: none;
+    border-radius: 4px; /* 직선 모서리 */
+    border: 2px solid #3BCE73;
+    transition: all 0.3s ease;
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.3);
+}
+
+.click-button.android:hover {
+    background-color: #35C36E;
+    color: #FFF;
+    box-shadow: 0 6px 10px rgba(0, 0, 0, 0.4);
+    transform: translateY(-2px);
+    cursor: pointer;
+}
+
+.click-button.android:active {
+    background-color: #2FB86E;
+    box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+    transform: translateY(0);
+}
