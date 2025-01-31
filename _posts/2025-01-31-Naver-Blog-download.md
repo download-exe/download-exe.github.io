@@ -7,7 +7,7 @@ tags: [Download]
 render_with_liquid: false
 image: 'https://play-lh.googleusercontent.com/rdmNKWDpwdzP-UBlrKQqVWwOm0vnvXg8lOD4vRQJQm8AR2lK2BBAGbrPzlDfI9lWyQ=s256-rw'
 ---
-<p><a class='click-button' title='네이버 블로그 - Naver Blog' href='http://blog.naver.com/' rel='nofollow'>네이버 블로그 - Naver Blog 공식 홈페이지</a></p><br>
+<p><a class='click-button' title='네이버 블로그 - Naver Blog' href='https://blog.naver.com/' rel='nofollow'>네이버 블로그 - Naver Blog 공식 홈페이지</a></p><br>
 <h2 id='네이버 블로그 - Naver Blog_다운로드'>네이버 블로그 - Naver Blog 다운로드</h2>
 <p><a class="click-button ios" title="Naver-Blog 다운로드" href="https://apps.apple.com/us/app/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B8%94%EB%A1%9C%EA%B7%B8-naver-blog/id328813873" rel="nofollow">ios Naver-Blog 다운로드</a></p><br>
 <p><a class="click-button android" title="Naver-Blog 다운로드" href="https://play.google.comhttps://play.google.com/store/apps/details?id=com.nhn.android.blog" rel="nofollow">android Naver-Blog 다운로드</a></p><br>
