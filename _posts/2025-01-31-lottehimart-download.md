@@ -1,7 +1,7 @@
 ---
 title: 롯데하이마트 - 가전 쇼핑부터 홈 만능해결 서비스까지 다운로드 바로가기
 author: Download
-date: 2025-01-31
+date: 2025-02-01
 categories: [Download]
 tags: [Download]
 render_with_liquid: false

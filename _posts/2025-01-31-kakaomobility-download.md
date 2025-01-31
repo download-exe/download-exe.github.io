@@ -1,7 +1,7 @@
 ---
 title: 카카오내비 - 주차,발렛,전기차충전,세차,보험,중고차 다운로드 바로가기
 author: Download
-date: 2025-01-31
+date: 2025-02-01
 categories: [Download]
 tags: [Download]
 render_with_liquid: false

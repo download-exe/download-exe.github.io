@@ -1,7 +1,7 @@
 ---
 title: 업비트 - 가장 신뢰받는 디지털 자산(비트코인) 거래소 다운로드 바로가기
 author: Download
-date: 2025-01-31
+date: 2025-02-01
 categories: [Download]
 tags: [Download]
 render_with_liquid: false

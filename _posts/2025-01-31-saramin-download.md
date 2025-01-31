@@ -1,7 +1,7 @@
 ---
 title: 사람인 - 취업 이직 커뮤니티 커리어의 모든 것 다운로드 바로가기
 author: Download
-date: 2025-01-31
+date: 2025-02-01
 categories: [Download]
 tags: [Download]
 render_with_liquid: false

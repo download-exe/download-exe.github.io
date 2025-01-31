@@ -1,7 +1,7 @@
 ---
 title: 신한 SOL페이 - 신한카드 대표플랫폼 다운로드 바로가기
 author: Download
-date: 2025-01-31
+date: 2025-02-01
 categories: [Download]
 tags: [Download]
 render_with_liquid: false

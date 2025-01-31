@@ -1,7 +1,7 @@
 ---
 title: 인크루트 - 신입 경력 이직 취업정보는 취업비서 하나로 다운로드 바로가기
 author: Download
-date: 2025-01-31
+date: 2025-02-01
 categories: [Download]
 tags: [Download]
 render_with_liquid: false
