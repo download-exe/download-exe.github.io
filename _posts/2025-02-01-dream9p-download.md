@@ -45,7 +45,7 @@ image: 'https://play-lh.googleusercontent.com/25Sn1owaKGlb9Mq7Fe4-YlTkjjzHwKJTUT
     </tr>
     <tr>
         <td style="text-align: center; height: 17px;"><b>끝나지 않는 사랑 이야기</b></td>
-        <td style="text-align: center; height: 17px;"><a href="다운로드 링크">다운로드하기</a></td>
+        <td style="text-align: center; height: 17px;"><a href="https://apps.apple.com/kr/app/%EA%B5%AC%EC%9A%B4%EB%AA%BDp-%EB%81%9D%EB%82%98%EC%A7%80-%EC%95%8A%EB%8A%94-%EC%82%AC%EB%9E%91-%EC%9D%B4%EC%95%BC%EA%B8%B0/id6463096739">다운로드하기</a></td>
         <td style="text-align: center; height: 17px;"><b>3:45</b></td>
     </tr>
 </table>
