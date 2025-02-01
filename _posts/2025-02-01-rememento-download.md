@@ -48,7 +48,7 @@ image: 'https://play-lh.googleusercontent.com/PBF2mpVuODUKz45Zq0jSnQF28Tyuggmajg
         <td style="text-align: center; height: 17px;"><b>파일 크기</b></td>
     </tr>
     <tr>
-        <td style="text-align: center; height: 17px;"><b><a href="https://example.com/download">리메멘토 다운로드</a></b></td>
+        <td style="text-align: center; height: 17px;"><b><a href="https://apps.apple.com/kr/app/%EB%A6%AC%EB%A9%94%EB%A9%98%ED%86%A0-%ED%95%98%EC%96%80-%EA%B7%B8%EB%A6%BC%EC%9E%90/id6717583535">리메멘토 다운로드</a></b></td>
         <td style="text-align: center; height: 17px;"><b>MP4</b></td>
         <td style="text-align: center; height: 17px;"><b>1.5 GB</b></td>
     </tr>
