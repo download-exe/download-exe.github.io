@@ -1,5 +1,5 @@
 ---
-title: DeepL: 번역 & 작문 다운로드 바로가기
+title: DeepL 번역 & 작문 다운로드 바로가기
 author: Download
 date: 2025-02-01
 categories: [Download]

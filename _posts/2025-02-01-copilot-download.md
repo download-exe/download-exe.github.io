@@ -1,5 +1,5 @@
 ---
-title: Copilot Chat AI Writer: NexBot 다운로드 바로가기
+title: Copilot Chat AI Writer NexBot 다운로드 바로가기
 author: Download
 date: 2025-02-01
 categories: [Download]
